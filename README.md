@@ -3,8 +3,8 @@
 - shards
 - index
 - cluster
-- master: hieu^? nhu* primary key member
-- replica: hieu^? nhu* copies tu master
+- master: hiểu như primary key member
+- replica: hiểu như copies tu master
 - query dsl (11:59): flexible, powerful query language
 
 
